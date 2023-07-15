@@ -4,7 +4,7 @@ including poster image. As part of deploying website on AWS, images can be store
 stored in MongoDB database.**
 <br>
 <br>
-**Key skills/tech used:**
+**Key skills/technology used:**
 <br>
  > Local storage is replaced with S3.<br>
  > Database is migrated to MongoDB Atlas.<br>
