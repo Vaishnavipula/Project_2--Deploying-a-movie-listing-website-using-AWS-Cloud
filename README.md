@@ -5,10 +5,9 @@ stored in MongoDB database.**
 <br>
 <br>
 **Key skills/technology used:**
-<br>
- > Local storage is replaced with S3.<br>
- > Database is migrated to MongoDB Atlas.<br>
- > Backend server and frontend server are deployed in separate EC2 instances using Docker.<br>
- > Load Balancer and DNS services are applied to website.<br>
+ * Local storage is replaced with S3.<br>
+ * Database is migrated to MongoDB Atlas.<br>
+ * Backend server and frontend server are deployed in separate EC2 instances using Docker.<br>
+ * Load Balancer and DNS services are applied to website.<br>
 <br>
 https://drive.google.com/file/d/1ctp2iSKFh0Ml9DXbpPbjQRksZjlvHUVs/view?usp=sharing
