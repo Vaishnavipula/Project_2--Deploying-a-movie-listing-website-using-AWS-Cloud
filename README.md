@@ -9,6 +9,3 @@ stored in MongoDB database.**
  * Database is migrated to MongoDB Atlas.<br>
  * Backend server and frontend server are deployed in separate EC2 instances using Docker.<br>
  * Load Balancer and DNS services are applied to website.<br>
- 
-### This is document Link
-https://drive.google.com/file/d/1ctp2iSKFh0Ml9DXbpPbjQRksZjlvHUVs/view?usp=sharing
